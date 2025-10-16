@@ -3,7 +3,7 @@
 
 ## 🚀 About Me  
 🔹 **Backend Specialist:** PHP, Swoole, Redis, Kafka, Elasticsearch  
-🔹 **Frontend & Mobile:** ReactJS, React Native, Java & Kotlin (Native)  
+🔹 **Frontend & Mobile:** ReactJS, VueJS, React Native, Java & Kotlin (Native)  
 🔹 **Cloud & DevOps:** AWS S3, EC2, Docker  
 
 ---
@@ -27,6 +27,7 @@
 ### **🌐 Frontend**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![VueJS](https://img.shields.io/badge/-Vue.js-4FC08D.svg?style=flat&logo=vue.js&logoColor=black)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 
 ### **📱 Mobile**
@@ -57,4 +58,5 @@
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoanghuyduc)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:huyduc1602@gmail.com)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:huyduc1602@gmail.com)
+
