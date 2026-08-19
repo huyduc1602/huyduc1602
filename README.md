@@ -9,10 +9,9 @@
 ---
 
 ## 📊 GitHub Stats  
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huyduc1602&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=huyduc1602&theme=radical"/>
-</div>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=huyduc1602&show_icons=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=huyduc1602)
+###
 
 ---
 
