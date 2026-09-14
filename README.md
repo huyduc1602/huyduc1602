@@ -4,7 +4,7 @@
 ## 🚀 About Me  
 🔹 **Backend Specialist:** PHP, Swoole, Redis, Kafka, Elasticsearch  
 🔹 **Frontend & Mobile:** ReactJS, VueJS, React Native, Java & Kotlin (Native)  
-🔹 **Cloud & DevOps:** AWS S3, EC2, Docker  
+🔹 **Cloud & DevOps:** AWS, Docker  
 
 ---
 
