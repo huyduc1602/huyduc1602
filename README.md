@@ -2,9 +2,7 @@
 💻 **Backend & Full-Stack Developer** | 🚀 Passionate about Scalable Systems  
 
 ## 🚀 About Me  
-🔹 **Backend Specialist:** PHP, Swoole, Redis, Kafka, Elasticsearch  
-🔹 **Frontend & Mobile:** ReactJS, VueJS, React Native, Java & Kotlin (Native)  
-🔹 **Cloud & DevOps:** AWS, Docker  
+🔹 Software engineer based in Vietnam, specializing in the development of professional websites and software. Incorporates AI and 3D interactivity into products.  
 
 ---
 
@@ -17,6 +15,7 @@
 
 ## 🛠️ Technologies & Tools  
 ### **💻 Backend**
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Swoole](https://img.shields.io/badge/-Swoole-0078D4?style=flat&logo=php&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
